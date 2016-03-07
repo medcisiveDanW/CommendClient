@@ -1,0 +1,4 @@
+URL=http://vhapalathenaot:7778/CommendServer
+HOME_PAGE=commendDashboard.jsp
+SHUTDOWN_PAGE=shutdown.jsp
+WS_PAGE=ClientServlet
